@@ -1,0 +1,17 @@
+# ninja log v6
+29	5557	7622773676010497	CMakeFiles/Library_System.dir/main.cpp.obj	c3c9df27eac16382
+34	5431	7622773676050510	CMakeFiles/Library_System.dir/Book.cpp.obj	c44ac2e3a726d30e
+40	5587	7622773676120472	CMakeFiles/Library_System.dir/Member.cpp.obj	56300701dd9580df
+46	7287	7615203153030969	CMakeFiles/Library_System.dir/Librarian.cpp.obj	9eb5cad971958a84
+44	5508	7622773676150540	CMakeFiles/Library_System.dir/Transaction.cpp.obj	c6138a1a7eddb4
+6013	6209	7622773735840523	Library_System.exe	8fdce855c42a8a4b
+40	5590	7614630881674151	CMakeFiles/Library_System.dir/Person.cpp.obj	c908ea22846b79c3
+37	6013	7622773676080658	CMakeFiles/Library_System.dir/Library.cpp.obj	bf72cca4d41e8677
+31	1047	7622779039375509	build.ninja	a2ce891d04745f70
+23	848	7622779039375509	build.ninja	a2ce891d04745f70
+8	4272	7622781922987427	CMakeFiles/Library_System.dir/Library.cpp.obj	bf72cca4d41e8677
+4273	4487	7622781965637574	Library_System.exe	8fdce855c42a8a4b
+34	4236	7622782180747588	CMakeFiles/Library_System.dir/Library.cpp.obj	bf72cca4d41e8677
+4237	4460	7622782222767440	Library_System.exe	8fdce855c42a8a4b
+28	3301	7622785060327342	CMakeFiles/Library_System.dir/Library.cpp.obj	bf72cca4d41e8677
+3302	3473	7622785093077347	Library_System.exe	8fdce855c42a8a4b

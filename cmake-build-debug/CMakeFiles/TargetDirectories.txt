@@ -1,0 +1,3 @@
+F:/ahmed/Basics/OOP/projects/Library System/cmake-build-debug/CMakeFiles/Library_System.dir
+F:/ahmed/Basics/OOP/projects/Library System/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/ahmed/Basics/OOP/projects/Library System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
